@@ -18,7 +18,6 @@ export const ProductCard = () => {
             setdata(res.data.data)
             
           
-
         })
         .catch((err)=>{
             console.log(err)
