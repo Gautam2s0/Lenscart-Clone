@@ -5,6 +5,7 @@ import { useEffect } from 'react';
 import { Text } from '@chakra-ui/react';
 
 
+
 export const ProductCard = () => {
     let total=0
     const [data,setdata]=useState([])
