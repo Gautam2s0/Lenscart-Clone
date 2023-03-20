@@ -48,7 +48,7 @@ https://funny-pegasus-c3b55b.netlify.app/
 <img src="./Screenshots/sunglass.png">
 <img src="./Screenshots/cart.png">
 <img src="./Screenshots/shipping.png">
-<img src="./Screenshots/paymenbts.png">
+<img src="./Screenshots/paymebnts.png">
 
 
 ### Thanks for reading
