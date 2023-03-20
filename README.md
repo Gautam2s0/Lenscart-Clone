@@ -42,7 +42,7 @@ https://funny-pegasus-c3b55b.netlify.app/
 
 <img src="./Screenshots/Ainak logo.jpg">
 <img src="./Screenshots/hame.png">
-<img src="./Screenshots/Screenshot (451).png">
+<img src="./Screenshots/home2.png">
 <img src="./Screenshots/Screenshot (452).png">
 <img src="./Screenshots/Screenshot (453).png">
 <img src="./Screenshots/Screenshot (454).png">
